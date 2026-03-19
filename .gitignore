@@ -1,0 +1,19 @@
+# Fitxers ocults de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Carpetes de sistema de discos externs o xarxa
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
